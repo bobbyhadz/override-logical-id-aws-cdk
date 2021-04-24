@@ -1,8 +1,7 @@
-# Article name here
+# How to Override Logical IDs of Resources in AWS CDK
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/aws-s3-presigned-url-react)
-`<- Update Link`
+[bobbyhadz.com](https://bobbyhadz.com/blog/override-logical-id-aws-cdk)
 
 ## How to Use
 
