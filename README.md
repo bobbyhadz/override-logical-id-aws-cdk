@@ -1,7 +1,7 @@
 # How to Override Logical IDs of Resources in AWS CDK
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/override-logical-id-aws-cdk)
+[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-identifiers)
 
 > If you use CDK v1, switch to the cdk-v1 branch
 
